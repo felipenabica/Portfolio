@@ -7,7 +7,7 @@
 # Felipe Nabiça
 <sub>Analista de dados & Piloto de Drone</sub>
 
-Piloto de Drone especialista em mapeamento aereo com +300 voos em 3 estados do Brasil, atualmente migrando para a carreira como Analista de Dados e Desenvolvedor.
+Piloto de Drone especialista em mapeamento aéreo, atualmente migrando para a carreira de Analista de Dados e Desenvolvedor Python.
 
 ###### **Background in:** Python, Machine Learning, Graphic Design, Psychology, Technical Analysis, Solar Energy.
 
